@@ -1,2 +1,1 @@
-<h1>Lab 2</h1>
-<h3>Flexbox & Media Queries</h3>
+<h1>Lab 3 - Todo List</h1>
