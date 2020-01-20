@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item {
+  border: 1px solid lightslategray;
+  width: 350px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.itemTitle {
+  margin: 5px;
+  color: gray;
+  font-style: italic;
+}
+
+.checked {
+  text-decoration: line-through;
+}
